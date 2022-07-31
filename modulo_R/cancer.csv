@@ -1,0 +1,55 @@
+cancer	local	ano	casos	mortes
+Mama	Santa Catarina	1995	100	50
+Mama	Parana	1995	150	53
+Mama	Santa Catarina	2000	300	56
+Mama	Parana	2000	500	59
+Mama	Santa Catarina	2010	550	62
+Mama	Parana	2010	600	65
+Pulmao	Santa Catarina	1995	650	68
+Pulmao	Parana	1995	700	71
+Pulmao	Santa Catarina	2000	750	74
+Pulmao	Parana	2000	800	77
+Pulmao	Santa Catarina	2010	850	80
+Pulmao	Parana	2010	900	83
+Esofago	Santa Catarina	1995	950	86
+Esofago	Parana	1995	1000	89
+Esofago	Santa Catarina	2000	1050	92
+Esofago	Parana	2000	1100	95
+Esofago	Santa Catarina	2010	1150	98
+Esofago	Parana	2010	1200	101
+Pele	Santa Catarina	1995	100	65
+Pele	Parana	1995	150	68
+Pele	Santa Catarina	2000	300	71
+Pele	Parana	2000	500	74
+Pele	Santa Catarina	2010	550	77
+Pele	Parana	2010	600	80
+Pancreas	Santa Catarina	1995	650	83
+Pancreas	Parana	1995	700	86
+Pancreas	Santa Catarina	2000	750	89
+Pancreas	Parana	2000	800	92
+Pancreas	Santa Catarina	2010	850	95
+Pancreas	Parana	2010	900	98
+Leucemia	Santa Catarina	1995	950	101
+Leucemia	Parana	1995	1000	65
+Leucemia	Santa Catarina	2000	1050	68
+Leucemia	Parana	2000	1100	71
+Leucemia	Santa Catarina	2010	1150	74
+Leucemia	Parana	2010	1200	77
+Prostata	Santa Catarina	1995	100	80
+Prostata	Parana	1995	150	83
+Prostata	Santa Catarina	2000	300	86
+Prostata	Parana	2000	500	89
+Prostata	Santa Catarina	2010	550	92
+Prostata	Parana	2010	600	95
+Estomago	Santa Catarina	1995	650	98
+Estomago	Parana	1995	700	101
+Estomago	Santa Catarina	2000	750	65
+Estomago	Parana	2000	800	68
+Estomago	Santa Catarina	2010	850	71
+Estomago	Parana	2010	900	74
+Colo_Utero	Santa Catarina	1995	950	77
+Colo_Utero	Parana	1995	1000	80
+Colo_Utero	Santa Catarina	2000	1050	83
+Colo_Utero	Parana	2000	1100	86
+Colo_Utero	Santa Catarina	2010	1150	89
+Colo_Utero	Parana	2010	1200	92
